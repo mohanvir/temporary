@@ -1,8 +1,8 @@
-This is some text
+This is some very good text
 
-This is some more text
+This is some more very good text
 
-This is a function 
+This is an awesome function 
 
 def hi():
   print("Hello")
