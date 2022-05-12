@@ -1,8 +1,10 @@
-This is some text
+This is some text written by Andrew
+
+Andrew is the one who created this awesome file.
 
 This is some more text
 
-This is a function 
+This is a function written by Andrew
 
-def hi():
-  print("Hello")
+def hi_Andrew():
+  print("Hello Andrew")
